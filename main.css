@@ -1,0 +1,13 @@
+/*
+.card p{
+    background-color: aquamarine;
+    padding:16px 8px;
+
+}
+.card_parent:hover .card{
+    display:block;  
+    top: 0;
+    left:0;
+    z-index: 55000;
+}
+*/
